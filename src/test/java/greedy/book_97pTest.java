@@ -3,8 +3,6 @@ package greedy;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
-
 class book_97pTest {
 
     @Test
