@@ -1,7 +1,5 @@
 package programmers.lv1;
 
-import codingtest.kakao2022.Solution;
-
 // 내적
 public class NaeJeok {
     public static void main(String[] args) {

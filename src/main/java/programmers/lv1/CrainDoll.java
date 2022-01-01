@@ -1,7 +1,5 @@
 package programmers.lv1;
 
-import codingtest.kakao2022.Solution;
-
 import java.util.Stack;
 
 // 크레인 인형뽑기 게임

@@ -1,7 +1,5 @@
 package programmers.lv1;
 
-import codingtest.kakao2022.Solution;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
